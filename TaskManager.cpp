@@ -10,3 +10,7 @@ void ShowTasks(){
 void AddTask(){
     cout<<"Task add successfully.";
 }
+
+void DeleteTask(){
+    cout<<"Task deleted successfully.";
+}
